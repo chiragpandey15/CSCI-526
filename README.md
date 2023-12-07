@@ -1,4 +1,7 @@
 # CSCI-526
+![1](https://github.com/chiragpandey15/CSCI-526/assets/23038373/7d465a25-e2a6-4e28-ade3-b17517488b81)
+![2](https://github.com/chiragpandey15/CSCI-526/assets/23038373/c5675d68-b84b-470c-ae9d-13ad7d6672ed)
+
 ## Short Description
 In a world where the laws of physics are yours to bend, build your adventure as you sling and jump through a limitless landscape of challenges, obstacles, and rewards in a platform-builder game like no other. 
 The player can launch different platforms to collect orbs/powerups and reach the end. The game's difficulty gradually increases with varying types of platforms in each level, where the player has to strategize the platforms to collect the keys and reach the end.
